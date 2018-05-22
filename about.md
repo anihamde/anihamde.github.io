@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm currently a junior at Harvard University studying Math and Computer Science. I'm particularly interested in fields of machine learning, such as NLP, computer vision, and applied deep learning. In addition, I like seeing data science, computation, and statistical thinking applied to a variety of fields, from biology and business to sports and politics. I love discussing new ideas and thoughts; feel free to hit me up with any questions or suggestions!
 
-### More Information
+## Resume
 
-A place to include any other types of information that you'd like to include about yourself.
+You can download my resume [here][1].
 
-### Contact me
+[1]:{{https://www.github.com/anihamde/anihamde.github.io}}/downloads/anirudh_suresh_resume.pdf
 
-[email@domain.com](mailto:email@domain.com)
+## Forums
+
+[anirudh_suresh@college.harvard.edu](mailto:anirudh_suresh@college.harvard.edu)
+
+[Quora](https://www.quora.com/profile/Anirudh-Suresh-2)
+
+[Github](https://www.github.com/anihamde)
